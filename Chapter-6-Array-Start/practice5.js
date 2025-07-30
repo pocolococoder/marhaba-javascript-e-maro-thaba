@@ -1,0 +1,1 @@
+const cinema = ['Mohabbatein','DDLJ','3 idiots', 'Charlie','Bengalore Days'];
